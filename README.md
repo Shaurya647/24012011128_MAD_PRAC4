@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Practical-4
 
 **Aim:** Create an Android Alarm application by using service & BroadcastReceiver.
@@ -28,3 +29,6 @@ This application demonstrates how to schedule tasks in Android using the `AlarmM
 ---
 **Enrollment No:** 24012011128
 **Last Updated:** August 16, 2026
+=======
+# 24012011128_MAD_PRAC4
+>>>>>>> f5e2ad4b0385f289c48cddd3bea426b7660af5b6
